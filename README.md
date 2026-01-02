@@ -9,7 +9,8 @@ Example input:
 <img width="1785" height="886" alt="image" src="https://github.com/user-attachments/assets/252e3aac-66bd-48d9-aa21-fe1221697346" />
 
 Example output:
-<img width="1328" height="864" alt="image" src="https://github.com/user-attachments/assets/68a92a1a-ff52-4e25-bd5d-db9ad906ae43" />
+<img width="1707" height="789" alt="image" src="https://github.com/user-attachments/assets/805c00cf-aff6-4571-a2a4-fec80feefe25" />
+
 
 
 
